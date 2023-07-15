@@ -9,7 +9,3 @@ build:
 
 run:
 	@java -classpath ./build/ Simulador.java
-
-grafica:
-	@javac -encoding utf8 -d ./build/ *.java
-	@java -classpath ./build/ Graficador.java
