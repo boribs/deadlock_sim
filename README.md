@@ -1,4 +1,4 @@
-# Simulador de deadlock
+# Simulador de deadlock
 
 Un simulador de procesos basado en [MOSS Deadlock](http://www.ontko.com/moss/#deadlock), desarrollado para la clase `Sistemas Operativos I`.
 Este repositorio es meramente un respaldo.
